@@ -18,3 +18,6 @@ Quick table overview of the completed solutions.
 | # | Problem | Difficulty |
 | - | - | - |
 | 1 | [Two Sum](Solutions/1.TwoSum.cpp) | Easy |
+| 2 | [Add Two Numbers](Solutions/2.AddTwoNumbers.cpp) | Medium |
+| 3* | [Longest Substring Without Repeating Characters](Solutions/3.LongestSubstringWithoutRepeatingCharacters.cpp) | Medium |
+| 4 | [Median Of Two Sorted Arrays](Solutions/4.MedianOfTwoSortedArrays.cpp) | Hard |
