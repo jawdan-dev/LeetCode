@@ -22,3 +22,6 @@ Quick table overview of the completed solutions.
 | 3* | [Longest Substring Without Repeating Characters](Solutions/3.LongestSubstringWithoutRepeatingCharacters.cpp) | Medium |
 | 4 | [Median Of Two Sorted Arrays](Solutions/4.MedianOfTwoSortedArrays.cpp) | Hard |
 | 7 | [Reverse Integer](Solutions/7.ReverseInteger.cpp) | Medium |
+| 8 | [String To Integer (atoi)](Solutions/8.StringToIntegerAtoi.cpp) | Medium |
+| 9 | [Palindrome Number](Solutions/9.PalindromeNumber.cpp) | Easy |
+| 10 | [Regular Expression Matching](Solutions/10.RegularExpressionMatching.cpp) | Hard |
