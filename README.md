@@ -21,3 +21,4 @@ Quick table overview of the completed solutions.
 | 2 | [Add Two Numbers](Solutions/2.AddTwoNumbers.cpp) | Medium |
 | 3* | [Longest Substring Without Repeating Characters](Solutions/3.LongestSubstringWithoutRepeatingCharacters.cpp) | Medium |
 | 4 | [Median Of Two Sorted Arrays](Solutions/4.MedianOfTwoSortedArrays.cpp) | Hard |
+| 7 | [Reverse Integer](Solutions/7.ReverseInteger.cpp) | Medium |
