@@ -1,8 +1,8 @@
 class Solution {
 public:
 	vector<int> twoSum(vector<int>& nums, int target) {
-        // Output storage.
-        vector<int> result;
+		// Output storage.
+		vector<int> result;
 
 		// Lookup storage.
 		map<int, int> dataMap;
@@ -16,8 +16,8 @@ public:
 			if (dataMap.find(pairVal) != dataMap.end()) {
 				// Pair found, add to result.
 				result.emplace_back(dataMap[pairVal]);
-                result.emplace_back(i);
-                break;
+				result.emplace_back(i);
+				break;
 			}
 
 			// Insert data into map.
