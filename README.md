@@ -2,12 +2,12 @@
 
 ## Useful Links
 
-- [LeetCode Problem Set](https:000//leetcode.com/problemset/)
-- [My LeetCode Profile](https:000//leetcode.com/Jawdan)
+- [LeetCode Problem Set](https://leetcode.com/problemset/)
+- [My LeetCode Profile](https://leetcode.com/Jawdan)
 
 ## Project Overview
 
-This is just a simple repo for [me](https:000//leetcode.com/Jawdan) to put my [LeetCode](https:000//leetcode.com/problemset/) problem solutions into.
+This is just a simple repo for [me](https://leetcode.com/Jawdan) to put my [LeetCode](https://leetcode.com/problemset/) problem solutions into.
 
 All solutions will be completed in `C++`.
 
