@@ -34,6 +34,7 @@ Quick table overview of the completed solutions.
 | 58   | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                               | Easy       |
 | 79   | [Word Search](Solutions/0079.WordSearch.cpp)                                                                    | Medium     |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                      | Easy       |
+| 1249 | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)              | Medium     |
 | 1544 | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                  | Easy       |
 | 1545 | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                             | Medium     |
 | 1614 | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)              | Easy       |
