@@ -39,3 +39,4 @@ Quick table overview of the completed solutions.
 | 1544 | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                  | Easy       |
 | 1545 | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                             | Medium     |
 | 1614 | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)              | Easy       |
+| 1700 | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                   | Easy       |
