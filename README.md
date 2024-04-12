@@ -31,6 +31,7 @@ Quick table overview of the completed solutions.
 | 14   | [Longest Common Prefix](Solutions/0014.LongestCommonPrefix.cpp)                                                 | Easy       |
 | 20   | [Valid Parentheses](Solutions/0020.ValidParentheses.cpp)                                                        | Easy       |
 | 21   | [Merge Two Sorted Lists](Solutions/0021.MergeTwoSortedLists.cpp)                                                | Easy       |
+| 42   | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                     | Hard       |
 | 58   | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                               | Easy       |
 | 79   | [Word Search](Solutions/0079.WordSearch.cpp)                                                                    | Medium     |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                      | Easy       |
