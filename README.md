@@ -34,6 +34,8 @@ Quick table overview of the completed solutions.
 | 42   | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                     | Hard       |
 | 58   | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                               | Easy       |
 | 79   | [Word Search](Solutions/0079.WordSearch.cpp)                                                                    | Medium     |
+| 84   | [Largest Rectangle in Histogram](Solutions/0084.LargestRectangleInHistogram.cpp)                                | Hard       |
+| 85   | [Maximal Rectangle](Solutions/0085.MaximalRectangle.cpp)                                                        | Hard       |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                      | Easy       |
 | 402  | [Remove K Digits](Solutions/0402.RemoveKDigits.cpp)                                                             | Medium     |
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                           | Medium     |
