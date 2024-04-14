@@ -38,6 +38,7 @@ Quick table overview of the completed solutions.
 | 85   | [Maximal Rectangle](Solutions/0085.MaximalRectangle.cpp)                                                        | Hard       |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                      | Easy       |
 | 402  | [Remove K Digits](Solutions/0402.RemoveKDigits.cpp)                                                             | Medium     |
+| 404  | [Sum of Left Leaves](Solutions/0404.SumOfLeftLeaves.cpp)                                                        | Easy       |
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                           | Medium     |
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                             | Medium     |
 | 1249 | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)              | Medium     |
