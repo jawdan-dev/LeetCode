@@ -36,6 +36,7 @@ Quick table overview of the completed solutions.
 | 79   | [Word Search](Solutions/0079.WordSearch.cpp)                                                                    | Medium     |
 | 84   | [Largest Rectangle in Histogram](Solutions/0084.LargestRectangleInHistogram.cpp)                                | Hard       |
 | 85   | [Maximal Rectangle](Solutions/0085.MaximalRectangle.cpp)                                                        | Hard       |
+| 129  | [Sum Root to Leaf Numbers](Solutions/0129.SumRootToLeafNumbers.cpp)                                             | Medium     |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                      | Easy       |
 | 402  | [Remove K Digits](Solutions/0402.RemoveKDigits.cpp)                                                             | Medium     |
 | 404  | [Sum of Left Leaves](Solutions/0404.SumOfLeftLeaves.cpp)                                                        | Easy       |
