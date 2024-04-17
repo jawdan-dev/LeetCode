@@ -43,6 +43,7 @@ Quick table overview of the completed solutions.
 | 623  | [Add One Row to Tree](Solutions/0623.AddOneRowToTree.cpp)                                                       | Medium     |
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                           | Medium     |
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                             | Medium     |
+| 988  | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                         | Medium     |
 | 1249 | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)              | Medium     |
 | 1544 | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                  | Easy       |
 | 1545 | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                             | Medium     |
