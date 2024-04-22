@@ -44,6 +44,7 @@ Quick table overview of the completed solutions.
 | 463  | [Island Perimeter](Solutions/0463.IslandPerimeter.cpp)                                                          | Easy       |
 | 623  | [Add One Row to Tree](Solutions/0623.AddOneRowToTree.cpp)                                                       | Medium     |
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                           | Medium     |
+| 752  | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                 | Medium     |
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                             | Medium     |
 | 988  | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                         | Medium     |
 | 1249 | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)              | Medium     |
