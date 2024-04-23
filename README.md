@@ -39,6 +39,7 @@ Quick table overview of the completed solutions.
 | 129  | [Sum Root to Leaf Numbers](Solutions/0129.SumRootToLeafNumbers.cpp)                                             | Medium     |
 | 200  | [Number of Islands](Solutions/0200.NumberOfIslands.cpp)                                                         | Medium     |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                      | Easy       |
+| 310  | [Minimum Height Trees](Solutions/0310.MinimumHeightTrees.cpp)                                                   | Medium     |
 | 402  | [Remove K Digits](Solutions/0402.RemoveKDigits.cpp)                                                             | Medium     |
 | 404  | [Sum of Left Leaves](Solutions/0404.SumOfLeftLeaves.cpp)                                                        | Easy       |
 | 463  | [Island Perimeter](Solutions/0463.IslandPerimeter.cpp)                                                          | Easy       |
