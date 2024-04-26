@@ -50,6 +50,7 @@ Quick table overview of the completed solutions.
 | 988  | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                         | Medium     |
 | 1137 | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                 | Easy       |
 | 1249 | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)              | Medium     |
+| 1289 | [Minimum Falling Path Sum II](Solutions/1289.MinimumFallingPathSumII.cpp)                                       | Hard       |
 | 1544 | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                  | Easy       |
 | 1545 | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                             | Medium     |
 | 1614 | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)              | Easy       |
