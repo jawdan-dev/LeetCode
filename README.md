@@ -43,6 +43,7 @@ Quick table overview of the completed solutions.
 | 402  | [Remove K Digits](Solutions/0402.RemoveKDigits.cpp)                                                             | Medium     |
 | 404  | [Sum of Left Leaves](Solutions/0404.SumOfLeftLeaves.cpp)                                                        | Easy       |
 | 463  | [Island Perimeter](Solutions/0463.IslandPerimeter.cpp)                                                          | Easy       |
+| 514  | [Freedom Trial](Solutions/0514.FreedomTrial.cpp)                                                                | Hard       |
 | 623  | [Add One Row to Tree](Solutions/0623.AddOneRowToTree.cpp)                                                       | Medium     |
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                           | Medium     |
 | 752  | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                 | Medium     |
