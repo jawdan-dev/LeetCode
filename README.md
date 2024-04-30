@@ -57,6 +57,7 @@ Quick table overview of the completed solutions.
 | 1545 | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                                             | Medium     |
 | 1614 | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)                              | Easy       |
 | 1700 | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                                   | Easy       |
+| 1915 | [Number of Wonderful Substrings](Solutions/1915.NumberOfWonderfulSubstrings.cpp)                                                | Medium     |
 | 1971 | [Find if Path Exists in Graph](Solutions/1971.FindIfPathExistsInGraph.cpp)                                                      | Easy       |
 | 1992 | [Find All Groups of Farmland](Solutions/1992.FindAllGroupsOfFarmland.cpp)                                                       | Medium     |
 | 2073 | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                         | Easy       |
