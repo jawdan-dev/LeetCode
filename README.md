@@ -60,6 +60,7 @@ Quick table overview of the completed solutions.
 | 1915 | [Number of Wonderful Substrings](Solutions/1915.NumberOfWonderfulSubstrings.cpp)                                                | Medium     |
 | 1971 | [Find if Path Exists in Graph](Solutions/1971.FindIfPathExistsInGraph.cpp)                                                      | Easy       |
 | 1992 | [Find All Groups of Farmland](Solutions/1992.FindAllGroupsOfFarmland.cpp)                                                       | Medium     |
+| 2000 | [Reverse Prefix of Word](Solutions/2000.ReversePrefixOfWord.cpp)                                                                | Easy       |
 | 2073 | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                         | Easy       |
 | 2370 | [Longest Ideal Subsequence](Solutions/2370.LongestIdealSubsequence.cpp)                                                         | Medium     |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp) | Medium     |
