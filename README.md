@@ -63,4 +63,5 @@ Quick table overview of the completed solutions.
 | 2000 | [Reverse Prefix of Word](Solutions/2000.ReversePrefixOfWord.cpp)                                                                | Easy       |
 | 2073 | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                         | Easy       |
 | 2370 | [Longest Ideal Subsequence](Solutions/2370.LongestIdealSubsequence.cpp)                                                         | Medium     |
+| 2441 | [Largest Positive Integer that Exists with its Negative](Solutions/2441.LargestPositiveIntegerThatExistsWithItsNegative.cpp)    | Easy       |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp) | Medium     |
