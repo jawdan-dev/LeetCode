@@ -37,6 +37,7 @@ Quick table overview of the completed solutions.
 | 84   | [Largest Rectangle in Histogram](Solutions/0084.LargestRectangleInHistogram.cpp)                                                | Hard       |
 | 85   | [Maximal Rectangle](Solutions/0085.MaximalRectangle.cpp)                                                                        | Hard       |
 | 129  | [Sum Root to Leaf Numbers](Solutions/0129.SumRootToLeafNumbers.cpp)                                                             | Medium     |
+| 165  | [Compare Version Numbers](Solutions/165.CompareVersionNumbers.cpp)                                                              | Medium     |
 | 200  | [Number of Islands](Solutions/0200.NumberOfIslands.cpp)                                                                         | Medium     |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                                      | Easy       |
 | 310  | [Minimum Height Trees](Solutions/0310.MinimumHeightTrees.cpp)                                                                   | Medium     |
