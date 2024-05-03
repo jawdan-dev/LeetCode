@@ -31,6 +31,9 @@ Quick table overview of the completed solutions.
 | 14   | [Longest Common Prefix](Solutions/0014.LongestCommonPrefix.cpp)                                                                 | Easy       |
 | 20   | [Valid Parentheses](Solutions/0020.ValidParentheses.cpp)                                                                        | Easy       |
 | 21   | [Merge Two Sorted Lists](Solutions/0021.MergeTwoSortedLists.cpp)                                                                | Easy       |
+| 26   | [Remove Duplicates From Sorted Array](Solutions/0026.RemoveDuplicatesFromSortedArray.cpp)                                       | Easy       |
+| 27   | [Remove Element](Solutions/0027.RemoveElement.cpp)                                                                              | Easy       |
+| 28   | [Find the Index of the First Occurrence in a String](solutions/0028.FindTheIndexOfTheFirstOccurenceInAString.cpp)               | Easy       |
 | 42   | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                                     | Hard       |
 | 58   | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                                               | Easy       |
 | 79   | [Word Search](Solutions/0079.WordSearch.cpp)                                                                                    | Medium     |
