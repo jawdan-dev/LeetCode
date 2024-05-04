@@ -52,6 +52,7 @@ Quick table overview of the completed solutions.
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                                           | Medium     |
 | 752  | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                                 | Medium     |
 | 834  | [Sum of Distances in Tree](Solutions/834.SumOfDistancesInTree.cpp)                                                              | Hard       |
+| 881  | [Boats to Save People](Solutions/0881.BoatsToSavePeople.cpp)                                                                    | Medium     |
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                                             | Medium     |
 | 988  | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                                         | Medium     |
 | 1137 | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                                 | Easy       |
