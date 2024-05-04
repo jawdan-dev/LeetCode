@@ -40,7 +40,7 @@ Quick table overview of the completed solutions.
 | 84   | [Largest Rectangle in Histogram](Solutions/0084.LargestRectangleInHistogram.cpp)                                                | Hard       |
 | 85   | [Maximal Rectangle](Solutions/0085.MaximalRectangle.cpp)                                                                        | Hard       |
 | 129  | [Sum Root to Leaf Numbers](Solutions/0129.SumRootToLeafNumbers.cpp)                                                             | Medium     |
-| 165  | [Compare Version Numbers](Solutions/165.CompareVersionNumbers.cpp)                                                              | Medium     |
+| 165  | [Compare Version Numbers](Solutions/0165.CompareVersionNumbers.cpp)                                                              | Medium     |
 | 200  | [Number of Islands](Solutions/0200.NumberOfIslands.cpp)                                                                         | Medium     |
 | 205  | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                                      | Easy       |
 | 310  | [Minimum Height Trees](Solutions/0310.MinimumHeightTrees.cpp)                                                                   | Medium     |
@@ -51,7 +51,7 @@ Quick table overview of the completed solutions.
 | 623  | [Add One Row to Tree](Solutions/0623.AddOneRowToTree.cpp)                                                                       | Medium     |
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                                           | Medium     |
 | 752  | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                                 | Medium     |
-| 834  | [Sum of Distances in Tree](Solutions/834.SumOfDistancesInTree.cpp)                                                              | Hard       |
+| 834  | [Sum of Distances in Tree](Solutions/0834.SumOfDistancesInTree.cpp)                                                              | Hard       |
 | 881  | [Boats to Save People](Solutions/0881.BoatsToSavePeople.cpp)                                                                    | Medium     |
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                                             | Medium     |
 | 988  | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                                         | Medium     |
