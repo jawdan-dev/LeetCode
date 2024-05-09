@@ -74,3 +74,4 @@ Quick table overview of the completed solutions.
 | 2487 | [Remove Node from Linked List](Solutions/2487.RemoveNodesFromLinkedList.cpp)                                                    | Medium     |
 | 2816 | [Double a Number Represented as a Linked List](Solutions/2816.DoubleANumberRepresentedAsALinkedList.cpp)                        | Medium     |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp) | Medium     |
+| 3075 | [Maximize Happiness of Selected Children](Solutions/3075.MaximizeHappinessOfSelectedChildren.cpp) | Medium |
