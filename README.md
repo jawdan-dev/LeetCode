@@ -53,6 +53,7 @@ Quick table overview of the completed solutions.
 | 623  | [Add One Row to Tree](Solutions/0623.AddOneRowToTree.cpp)                                                                       | Medium     |
 | 678  | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                                           | Medium     |
 | 752  | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                                 | Medium     |
+| 786* | [K-th Smallest Prime Fraction](Solutions/0786.KthSmallestPrimeFraction.cpp)                                                     | Medium     |
 | 834  | [Sum of Distances in Tree](Solutions/0834.SumOfDistancesInTree.cpp)                                                             | Hard       |
 | 881  | [Boats to Save People](Solutions/0881.BoatsToSavePeople.cpp)                                                                    | Medium     |
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                                             | Medium     |
@@ -74,4 +75,4 @@ Quick table overview of the completed solutions.
 | 2487 | [Remove Node from Linked List](Solutions/2487.RemoveNodesFromLinkedList.cpp)                                                    | Medium     |
 | 2816 | [Double a Number Represented as a Linked List](Solutions/2816.DoubleANumberRepresentedAsALinkedList.cpp)                        | Medium     |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp) | Medium     |
-| 3075 | [Maximize Happiness of Selected Children](Solutions/3075.MaximizeHappinessOfSelectedChildren.cpp) | Medium |
+| 3075 | [Maximize Happiness of Selected Children](Solutions/3075.MaximizeHappinessOfSelectedChildren.cpp)                               | Medium     |
