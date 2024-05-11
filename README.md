@@ -55,6 +55,7 @@ Quick table overview of the completed solutions.
 | 752  | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                                 | Medium     |
 | 786* | [K-th Smallest Prime Fraction](Solutions/0786.KthSmallestPrimeFraction.cpp)                                                     | Medium     |
 | 834  | [Sum of Distances in Tree](Solutions/0834.SumOfDistancesInTree.cpp)                                                             | Hard       |
+| 857  | [Minimum Cost to Hire K Workers](solutions/0857.MinimumCostToHireKWorkers.cpp)                                                  | Hard       |
 | 881  | [Boats to Save People](Solutions/0881.BoatsToSavePeople.cpp)                                                                    | Medium     |
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                                             | Medium     |
 | 988  | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                                         | Medium     |
