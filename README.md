@@ -72,6 +72,7 @@ Quick table overview of the completed solutions.
 | 2000 | [Reverse Prefix of Word](Solutions/2000.ReversePrefixOfWord.cpp)                                                                | Easy       |
 | 2073 | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                         | Easy       |
 | 2370 | [Longest Ideal Subsequence](Solutions/2370.LongestIdealSubsequence.cpp)                                                         | Medium     |
+| 2373 | [Largest Local Value in a Matrix](Solutions/2373.LargestLocalValueInAMatrix.cpp)                                                | Easy       |
 | 2441 | [Largest Positive Integer that Exists with its Negative](Solutions/2441.LargestPositiveIntegerThatExistsWithItsNegative.cpp)    | Easy       |
 | 2487 | [Remove Node from Linked List](Solutions/2487.RemoveNodesFromLinkedList.cpp)                                                    | Medium     |
 | 2816 | [Double a Number Represented as a Linked List](Solutions/2816.DoubleANumberRepresentedAsALinkedList.cpp)                        | Medium     |
