@@ -61,6 +61,7 @@ Quick table overview of the completed solutions.
 | 950  | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                                             | Medium     |
 | 988  | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                                         | Medium     |
 | 1137 | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                                 | Easy       |
+| 1219 | [Path with Maximum Gold](Solutions/1219.PathWithMaximumGold.cpp)                                                                | Medium     |
 | 1249 | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)                              | Medium     |
 | 1289 | [Minimum Falling Path Sum II](Solutions/1289.MinimumFallingPathSumII.cpp)                                                       | Hard       |
 | 1544 | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                                  | Easy       |
