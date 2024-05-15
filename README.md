@@ -77,6 +77,7 @@ Quick table overview of the completed solutions.
 | 2373 | [Largest Local Value in a Matrix](Solutions/2373.LargestLocalValueInAMatrix.cpp)                                                | Easy       |
 | 2441 | [Largest Positive Integer that Exists with its Negative](Solutions/2441.LargestPositiveIntegerThatExistsWithItsNegative.cpp)    | Easy       |
 | 2487 | [Remove Node from Linked List](Solutions/2487.RemoveNodesFromLinkedList.cpp)                                                    | Medium     |
+| 2812 | [Find the Safest Path in a Grid](Solutions/2812.FindTheSafestPathInAGrid.cpp)                                                   | Medium     |
 | 2816 | [Double a Number Represented as a Linked List](Solutions/2816.DoubleANumberRepresentedAsALinkedList.cpp)                        | Medium     |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp) | Medium     |
 | 3075 | [Maximize Happiness of Selected Children](Solutions/3075.MaximizeHappinessOfSelectedChildren.cpp)                               | Medium     |
