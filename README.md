@@ -83,4 +83,5 @@ Quick table overview of the completed solutions.
 | 2812 | [Find the Safest Path in a Grid](Solutions/2812.FindTheSafestPathInAGrid.cpp)                                                   | Medium     |
 | 2816 | [Double a Number Represented as a Linked List](Solutions/2816.DoubleANumberRepresentedAsALinkedList.cpp)                        | Medium     |
 | 2997 | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp) | Medium     |
+| 3068 | [Find the Maximum Sum of Node Values](Solutions/3068.FindTheMaximumSumOfNodeValues.cpp)                                         | Hard       |
 | 3075 | [Maximize Happiness of Selected Children](Solutions/3075.MaximizeHappinessOfSelectedChildren.cpp)                               | Medium     |
