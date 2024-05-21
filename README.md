@@ -36,6 +36,7 @@ Quick table overview of the completed solutions.
 | 28   | [Find the Index of the First Occurrence in a String](solutions/0028.FindTheIndexOfTheFirstOccurenceInAString.cpp)               | Easy       |
 | 42   | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                                     | Hard       |
 | 58   | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                                               | Easy       |
+| 78   | [Subsets](Solutions/0078.Subsets.cpp)                                                                                           | Medium     |
 | 79   | [Word Search](Solutions/0079.WordSearch.cpp)                                                                                    | Medium     |
 | 84   | [Largest Rectangle in Histogram](Solutions/0084.LargestRectangleInHistogram.cpp)                                                | Hard       |
 | 85   | [Maximal Rectangle](Solutions/0085.MaximalRectangle.cpp)                                                                        | Hard       |
