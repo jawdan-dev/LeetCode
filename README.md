@@ -66,6 +66,7 @@ Quick table overview of the completed solutions.
 | 1137  | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                                 | Easy       |
 | 1219  | [Path with Maximum Gold](Solutions/1219.PathWithMaximumGold.cpp)                                                                | Medium     |
 | 1249  | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)                              | Medium     |
+| 1255  | [Maximum Score Words Formed by Letters](Solutions/1255.MaximumScoreWordsFormedByLetters.cpp)                                    | Hard       |
 | 1289  | [Minimum Falling Path Sum II](Solutions/1289.MinimumFallingPathSumII.cpp)                                                       | Hard       |
 | 1325  | [Delete Leaves With a Given Value](Solutions/1325.DeleteLeavesWithAGivenValue.cpp)                                              | Medium     |
 | 1544  | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                                  | Easy       |
