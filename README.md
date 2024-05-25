@@ -42,6 +42,7 @@ Quick table overview of the completed solutions.
 | 85    | [Maximal Rectangle](Solutions/0085.MaximalRectangle.cpp)                                                                        | Hard       |
 | 129   | [Sum Root to Leaf Numbers](Solutions/0129.SumRootToLeafNumbers.cpp)                                                             | Medium     |
 | 131   | [Palindrome Partitioning](Solutions/0131.PalindromePartitioning.cpp)                                                            | Medium     |
+| 140   | [Word Break II](Solutions/0140.WordBreakII.cpp)                                                                                 | Hard       |
 | 165   | [Compare Version Numbers](Solutions/0165.CompareVersionNumbers.cpp)                                                             | Medium     |
 | 200   | [Number of Islands](Solutions/0200.NumberOfIslands.cpp)                                                                         | Medium     |
 | 205   | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                                      | Easy       |
