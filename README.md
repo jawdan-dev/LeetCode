@@ -47,6 +47,7 @@ Quick table overview of the completed solutions.
 | 200   | [Number of Islands](Solutions/0200.NumberOfIslands.cpp)                                                                                           | Medium     |
 | 205   | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                                                        | Easy       |
 | 237   | [Delete Node in a Linked List](Solutions/0237.DeleteNodeInALinkedList.cpp)                                                                        | Medium     |
+| 260   | [Single Number III](Solutions/0260.SingleNumberIII.cpp)                                                                                           | Medium     |
 | 310   | [Minimum Height Trees](Solutions/0310.MinimumHeightTrees.cpp)                                                                                     | Medium     |
 | 402   | [Remove K Digits](Solutions/0402.RemoveKDigits.cpp)                                                                                               | Medium     |
 | 404   | [Sum of Left Leaves](Solutions/0404.SumOfLeftLeaves.cpp)                                                                                          | Easy       |
