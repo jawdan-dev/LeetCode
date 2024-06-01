@@ -97,3 +97,4 @@ Quick table overview of the completed solutions.
 | 2997  | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp)                   | Medium     |
 | 3068  | [Find the Maximum Sum of Node Values](Solutions/3068.FindTheMaximumSumOfNodeValues.cpp)                                                           | Hard       |
 | 3075  | [Maximize Happiness of Selected Children](Solutions/3075.MaximizeHappinessOfSelectedChildren.cpp)                                                 | Medium     |
+| 3110  | [Score of a String](Solutions/3110.ScoreOfAString.cpp)                                                                                            | Easy       |
