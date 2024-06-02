@@ -49,6 +49,7 @@ Quick table overview of the completed solutions.
 | 237   | [Delete Node in a Linked List](Solutions/0237.DeleteNodeInALinkedList.cpp)                                                                        | Medium     |
 | 260   | [Single Number III](Solutions/0260.SingleNumberIII.cpp)                                                                                           | Medium     |
 | 310   | [Minimum Height Trees](Solutions/0310.MinimumHeightTrees.cpp)                                                                                     | Medium     |
+| 344   | [Reverse String](Solutions/0344.ReverseString.cpp)                                                                                                | Easy       |
 | 402   | [Remove K Digits](Solutions/0402.RemoveKDigits.cpp)                                                                                               | Medium     |
 | 404   | [Sum of Left Leaves](Solutions/0404.SumOfLeftLeaves.cpp)                                                                                          | Easy       |
 | 463   | [Island Perimeter](Solutions/0463.IslandPerimeter.cpp)                                                                                            | Easy       |
