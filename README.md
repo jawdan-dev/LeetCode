@@ -91,6 +91,7 @@ Quick table overview of the completed solutions.
 | 2370  | [Longest Ideal Subsequence](Solutions/2370.LongestIdealSubsequence.cpp)                                                                           | Medium     |
 | 2373  | [Largest Local Value in a Matrix](Solutions/2373.LargestLocalValueInAMatrix.cpp)                                                                  | Easy       |
 | 2441  | [Largest Positive Integer that Exists with its Negative](Solutions/2441.LargestPositiveIntegerThatExistsWithItsNegative.cpp)                      | Easy       |
+| 2486  | [Append Characters to String to Make Subsequence](Solutions/2486.AppendCharactersToStringToMakeSubsequence.cpp)                                   | Medium     |
 | 2487  | [Remove Node from Linked List](Solutions/2487.RemoveNodesFromLinkedList.cpp)                                                                      | Medium     |
 | 2597* | [The Number of Beautiful Subsets](Solutions/2597.TheNumberOfBeautifulSubsets.cpp)                                                                 | Medium     |
 | 2812  | [Find the Safest Path in a Grid](Solutions/2812.FindTheSafestPathInAGrid.cpp)                                                                     | Medium     |
