@@ -62,6 +62,7 @@ Quick table overview of the completed solutions.
 | 752   | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                                                   | Medium     |
 | 786*  | [K-th Smallest Prime Fraction](Solutions/0786.KthSmallestPrimeFraction.cpp)                                                                       | Medium     |
 | 834   | [Sum of Distances in Tree](Solutions/0834.SumOfDistancesInTree.cpp)                                                                               | Hard       |
+| 846   | [Hands of Straights](Solutions/0846.HandOfStraights.cpp)                                                                                          | Medium     |
 | 857   | [Minimum Cost to Hire K Workers](solutions/0857.MinimumCostToHireKWorkers.cpp)                                                                    | Hard       |
 | 861   | [Score after Flipping Matrix](Solutions/0861.ScoreAfterFlippingMatrix.cpp)                                                                        | Medium     |
 | 881   | [Boats to Save People](Solutions/0881.BoatsToSavePeople.cpp)                                                                                      | Medium     |
