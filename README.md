@@ -35,6 +35,7 @@ Quick table overview of the completed solutions.
 | 27    | [Remove Element](Solutions/0027.RemoveElement.cpp)                                                                                                | Easy       |
 | 28    | [Find the Index of the First Occurrence in a String](solutions/0028.FindTheIndexOfTheFirstOccurenceInAString.cpp)                                 | Easy       |
 | 42    | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                                                       | Hard       |
+| 50    | [Pow(x, n)](Solutions/0050.PowXN.cpp)                                                                                                             | Medium     |
 | 58    | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                                                                 | Easy       |
 | 78    | [Subsets](Solutions/0078.Subsets.cpp)                                                                                                             | Medium     |
 | 79    | [Word Search](Solutions/0079.WordSearch.cpp)                                                                                                      | Medium     |
