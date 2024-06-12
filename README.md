@@ -37,6 +37,7 @@ Quick table overview of the completed solutions.
 | 42    | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                                                       | Hard       |
 | 50    | [Pow(x, n)](Solutions/0050.PowXN.cpp)                                                                                                             | Medium     |
 | 58    | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                                                                 | Easy       |
+| 75    | [Sort Colors](Solutions/0075.SortColors.cpp)                                                                                                      | Medium     |
 | 78    | [Subsets](Solutions/0078.Subsets.cpp)                                                                                                             | Medium     |
 | 79    | [Word Search](Solutions/0079.WordSearch.cpp)                                                                                                      | Medium     |
 | 84    | [Largest Rectangle in Histogram](Solutions/0084.LargestRectangleInHistogram.cpp)                                                                  | Hard       |
