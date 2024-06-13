@@ -96,6 +96,7 @@ Quick table overview of the completed solutions.
 | 1971  | [Find if Path Exists in Graph](Solutions/1971.FindIfPathExistsInGraph.cpp)                                                                        | Easy       |
 | 1992  | [Find All Groups of Farmland](Solutions/1992.FindAllGroupsOfFarmland.cpp)                                                                         | Medium     |
 | 2000  | [Reverse Prefix of Word](Solutions/2000.ReversePrefixOfWord.cpp)                                                                                  | Easy       |
+| 2037  | [Minimum Number of Moves to Seat Everyone](Solutions/2037.MinimumNumberOfMovesToSeatEveryone.cpp)                                                 | Easy       |
 | 2073  | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                                           | Easy       |
 | 2331  | [Evaluate Boolean Binary Tree](Solutions/2331.EvaluateBooleanBinaryTree.cpp)                                                                      | Easy       |
 | 2370  | [Longest Ideal Subsequence](Solutions/2370.LongestIdealSubsequence.cpp)                                                                           | Medium     |
