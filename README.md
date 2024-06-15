@@ -56,6 +56,7 @@ Quick table overview of the completed solutions.
 | 404   | [Sum of Left Leaves](Solutions/0404.SumOfLeftLeaves.cpp)                                                                                          | Easy       |
 | 409   | [Longest Palindrome](Solutions/0409.LongestPalindrome.cpp)                                                                                        | Easy       |
 | 463   | [Island Perimeter](Solutions/0463.IslandPerimeter.cpp)                                                                                            | Easy       |
+| 502   | [IPO](Solutions/0502.IPO.cpp)                                                                                                                     | Hard       |
 | 506   | [Relative Ranks](Solutions/0506.RelativeRanks.cpp)                                                                                                | Easy       |
 | 514   | [Freedom Trial](Solutions/0514.FreedomTrial.cpp)                                                                                                  | Hard       |
 | 523   | [Continuous Subarray Sum](Solutions/0523.ContinuousSubarraySum.cpp)                                                                               | Medium     |
