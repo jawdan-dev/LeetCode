@@ -63,6 +63,7 @@ Quick table overview of the completed solutions.
 | 523   | [Continuous Subarray Sum](Solutions/0523.ContinuousSubarraySum.cpp)                                                                               | Medium     |
 | 552   | [Student Attendance Record II](Solutions/0552.StudentAttendanceRecordII.cpp)                                                                      | Hard       |
 | 623   | [Add One Row to Tree](Solutions/0623.AddOneRowToTree.cpp)                                                                                         | Medium     |
+| 633   | [Sum of Square Numbers](Solutions/0633.SumOfSquareNumbers.cpp)                                                                                    | Medium     |
 | 648   | [Replace Words](Solutions/0648.ReplaceWords.cpp)                                                                                                  | Medium     |
 | 678   | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                                                             | Medium     |
 | 752   | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                                                   | Medium     |
