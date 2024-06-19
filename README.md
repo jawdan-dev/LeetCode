@@ -91,6 +91,7 @@ Quick table overview of the completed solutions.
 | 1325  | [Delete Leaves With a Given Value](Solutions/1325.DeleteLeavesWithAGivenValue.cpp)                                                                | Medium     |
 | 1404  | [Number of Steps to Reduce a Number in Binary Representation to One](Solutions/1404.NumberOfStepsToReduceANumberInABinaryRepresentationToOne.cpp) | Medium     |
 | 1442  | [Count Triplets That Can Form Two Arrays of Equal XOR](Solutions/1442.CountTripletsThatCanFormTwoArraysOfEqualXOR.cpp)                            | Medium     |
+| 1482  | [Minimum Number of Days to Make m Bouquets](Solutions/1482.MinimumNumberOfDaysToMakeMBouquets.cpp)                                                | Medium     |
 | 1544  | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                                                    | Easy       |
 | 1545  | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                                                               | Medium     |
 | 1608  | [Special Array With X Elements Greater Than or Equal X](Solutions/1608.SpecialArrayWithXElementsGreaterThanOrEqualX.cpp)                          | Easy       |
