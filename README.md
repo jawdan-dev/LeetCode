@@ -94,6 +94,7 @@ Quick table overview of the completed solutions.
 | 1482  | [Minimum Number of Days to Make m Bouquets](Solutions/1482.MinimumNumberOfDaysToMakeMBouquets.cpp)                                                | Medium     |
 | 1544  | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                                                    | Easy       |
 | 1545  | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                                                               | Medium     |
+| 1552  | [Magnetic Force Between Two Balls](Solutions/1552.MagneticForceBetweenTwoBalls.cpp)                                                               | Medium     |
 | 1608  | [Special Array With X Elements Greater Than or Equal X](Solutions/1608.SpecialArrayWithXElementsGreaterThanOrEqualX.cpp)                          | Easy       |
 | 1614  | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)                                                | Easy       |
 | 1700  | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                                                     | Easy       |
