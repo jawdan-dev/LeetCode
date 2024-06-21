@@ -81,6 +81,7 @@ Quick table overview of the completed solutions.
 | 988   | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                                                           | Medium     |
 | 1002  | [Find Common Characters](Solutions/1002.FindCommonCharacters.cpp)                                                                                 | Easy       |
 | 1051  | [Height Checker](Solutions/1051.HeightChecker.cpp)                                                                                                | Easy       |
+| 1052  | [Grumpy Bookstore Owner](Solutions/1052.GrumpyBookstoreOwner.cpp)                                                                                 | Medium     |
 | 1122  | [Relative Sort Array](Solutions/1122.RelativeSortArray.cpp)                                                                                       | Easy       |
 | 1137  | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                                                   | Easy       |
 | 1208  | [Get Equal Substrings Within Budget](Solutions/1208.GetEqualSubstringsWithinBudget.cpp)                                                           | Medium     |
