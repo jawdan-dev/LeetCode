@@ -86,6 +86,7 @@ Quick table overview of the completed solutions.
 | 1137  | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                                                   | Easy       |
 | 1208  | [Get Equal Substrings Within Budget](Solutions/1208.GetEqualSubstringsWithinBudget.cpp)                                                           | Medium     |
 | 1219  | [Path with Maximum Gold](Solutions/1219.PathWithMaximumGold.cpp)                                                                                  | Medium     |
+| 1248  | [Count Number of Nice Subarrays](Solutions/1248.CountNumberOfNiceSubarrays.cpp)                                                                   | Medium     |
 | 1249  | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)                                                | Medium     |
 | 1255  | [Maximum Score Words Formed by Letters](Solutions/1255.MaximumScoreWordsFormedByLetters.cpp)                                                      | Hard       |
 | 1289  | [Minimum Falling Path Sum II](Solutions/1289.MinimumFallingPathSumII.cpp)                                                                         | Hard       |
