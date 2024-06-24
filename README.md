@@ -79,6 +79,7 @@ Quick table overview of the completed solutions.
 | 974   | [Subarray Sums Divisible by K](Solutions/0974.SubarraySumsDivisibleByK.cpp)                                                                                      | Medium     |
 | 979   | [Distribute Coins in Binary Tree](Solutions/979.DistributeCoinsInBinaryTree.cpp)                                                                                 | Medium     |
 | 988   | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                                                                          | Medium     |
+| 995   | [Minimum Number of K Consecutive Bit Flips](Solutions/0995.MinimumNumberOfKConsecutiveBitFlips.cpp)                                                              | Hard       |
 | 1002  | [Find Common Characters](Solutions/1002.FindCommonCharacters.cpp)                                                                                                | Easy       |
 | 1051  | [Height Checker](Solutions/1051.HeightChecker.cpp)                                                                                                               | Easy       |
 | 1052  | [Grumpy Bookstore Owner](Solutions/1052.GrumpyBookstoreOwner.cpp)                                                                                                | Medium     |
