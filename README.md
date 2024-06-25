@@ -81,6 +81,7 @@ Quick table overview of the completed solutions.
 | 988   | [Smallest String Starting from Leaf](Solutions/0988.SmallestStringStartingFromLeaf.cpp)                                                                          | Medium     |
 | 995   | [Minimum Number of K Consecutive Bit Flips](Solutions/0995.MinimumNumberOfKConsecutiveBitFlips.cpp)                                                              | Hard       |
 | 1002  | [Find Common Characters](Solutions/1002.FindCommonCharacters.cpp)                                                                                                | Easy       |
+| 1038  | [Binary Search Tree to Greater Sum Tree](Solutions/1038.BinarySearchTreeToGreaterSumTree.cpp)                                                                    | Medium     |
 | 1051  | [Height Checker](Solutions/1051.HeightChecker.cpp)                                                                                                               | Easy       |
 | 1052  | [Grumpy Bookstore Owner](Solutions/1052.GrumpyBookstoreOwner.cpp)                                                                                                | Medium     |
 | 1122  | [Relative Sort Array](Solutions/1122.RelativeSortArray.cpp)                                                                                                      | Easy       |
