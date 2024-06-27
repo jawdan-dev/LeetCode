@@ -104,6 +104,7 @@ Quick table overview of the completed solutions.
 | 1608  | [Special Array With X Elements Greater Than or Equal X](Solutions/1608.SpecialArrayWithXElementsGreaterThanOrEqualX.cpp)                                         | Easy       |
 | 1614  | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)                                                               | Easy       |
 | 1700  | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                                                                    | Easy       |
+| 1791  | [Find Center of Star Graph](Solutions/1791.FindCenterOfStarGraph.cpp)                                                                                            | Easy       |
 | 1863  | [Sum of All Subset XOR Totals](Solutions/1863.SumOfAllSubsetXORTotals.cpp)                                                                                       | Easy       |
 | 1915  | [Number of Wonderful Substrings](Solutions/1915.NumberOfWonderfulSubstrings.cpp)                                                                                 | Medium     |
 | 1971  | [Find if Path Exists in Graph](Solutions/1971.FindIfPathExistsInGraph.cpp)                                                                                       | Easy       |
