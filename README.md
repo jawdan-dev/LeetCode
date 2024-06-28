@@ -112,6 +112,7 @@ Quick table overview of the completed solutions.
 | 2000  | [Reverse Prefix of Word](Solutions/2000.ReversePrefixOfWord.cpp)                                                                                                 | Easy       |
 | 2037  | [Minimum Number of Moves to Seat Everyone](Solutions/2037.MinimumNumberOfMovesToSeatEveryone.cpp)                                                                | Easy       |
 | 2073  | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                                                          | Easy       |
+| 2285  | [Maximum Total Importance of Roads](Solutions/2285.MaximumTotalImportanceOfRoads.cpp)                                                                            | Medium     |
 | 2331  | [Evaluate Boolean Binary Tree](Solutions/2331.EvaluateBooleanBinaryTree.cpp)                                                                                     | Easy       |
 | 2370  | [Longest Ideal Subsequence](Solutions/2370.LongestIdealSubsequence.cpp)                                                                                          | Medium     |
 | 2373  | [Largest Local Value in a Matrix](Solutions/2373.LargestLocalValueInAMatrix.cpp)                                                                                 | Easy       |
