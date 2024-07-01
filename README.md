@@ -100,6 +100,7 @@ Quick table overview of the completed solutions.
 | 1482  | [Minimum Number of Days to Make m Bouquets](Solutions/1482.MinimumNumberOfDaysToMakeMBouquets.cpp)                                                               | Medium     |
 | 1544  | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                                                                   | Easy       |
 | 1545  | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                                                                              | Medium     |
+| 1550  | [Three Consecutive Odds](Solutions/1550.ThreeConsecutiveOdds.cpp)                                                                                                | Easy       |
 | 1552  | [Magnetic Force Between Two Balls](Solutions/1552.MagneticForceBetweenTwoBalls.cpp)                                                                              | Medium     |
 | 1579  | [Remove Max Number of Edges to Keep Graph Fully Traversable](Solutions/1579.RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.cpp)                               | Hard       |
 | 1608  | [Special Array With X Elements Greater Than or Equal X](Solutions/1608.SpecialArrayWithXElementsGreaterThanOrEqualX.cpp)                                         | Easy       |
