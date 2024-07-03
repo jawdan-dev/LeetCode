@@ -98,6 +98,7 @@ Quick table overview of the completed solutions.
 | 1438  | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Solutions/1438.LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.cpp) | Medium     |
 | 1442  | [Count Triplets That Can Form Two Arrays of Equal XOR](Solutions/1442.CountTripletsThatCanFormTwoArraysOfEqualXOR.cpp)                                           | Medium     |
 | 1482  | [Minimum Number of Days to Make m Bouquets](Solutions/1482.MinimumNumberOfDaysToMakeMBouquets.cpp)                                                               | Medium     |
+| 1509  | [Minimum Difference Between Largest and Smallest Value in Three Moves](Solutions/1509.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.cpp)           | Medium     |
 | 1544  | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                                                                   | Easy       |
 | 1545  | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                                                                              | Medium     |
 | 1550  | [Three Consecutive Odds](Solutions/1550.ThreeConsecutiveOdds.cpp)                                                                                                | Easy       |
