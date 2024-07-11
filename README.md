@@ -86,6 +86,7 @@ Quick table overview of the completed solutions.
 | 1052  | [Grumpy Bookstore Owner](Solutions/1052.GrumpyBookstoreOwner.cpp)                                                                                                | Medium     |
 | 1122  | [Relative Sort Array](Solutions/1122.RelativeSortArray.cpp)                                                                                                      | Easy       |
 | 1137  | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                                                                  | Easy       |
+| 1190  | [Reverse Substrings Between Each Pair of PArentheses](Solutions/1190.ReverseSubstringsBetweenEachPairOfParentheses.cpp)                                          | Medium     |
 | 1208  | [Get Equal Substrings Within Budget](Solutions/1208.GetEqualSubstringsWithinBudget.cpp)                                                                          | Medium     |
 | 1219  | [Path with Maximum Gold](Solutions/1219.PathWithMaximumGold.cpp)                                                                                                 | Medium     |
 | 1248  | [Count Number of Nice Subarrays](Solutions/1248.CountNumberOfNiceSubarrays.cpp)                                                                                  | Medium     |
