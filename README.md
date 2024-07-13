@@ -133,6 +133,7 @@ Quick table overview of the completed solutions.
 | 2487  | [Remove Node from Linked List](Solutions/2487.RemoveNodesFromLinkedList.cpp)                                                                                     | Medium     |
 | 2582  | [Pass The Pillow](Solutions/2582.PassThePillow.cpp)                                                                                                              | Easy       |
 | 2597* | [The Number of Beautiful Subsets](Solutions/2597.TheNumberOfBeautifulSubsets.cpp)                                                                                | Medium     |
+| 2751  | [Robot Collisions](Solutions/2751.RobotCollisions.cpp)                                                                                                           | Hard       |
 | 2812  | [Find the Safest Path in a Grid](Solutions/2812.FindTheSafestPathInAGrid.cpp)                                                                                    | Medium     |
 | 2816  | [Double a Number Represented as a Linked List](Solutions/2816.DoubleANumberRepresentedAsALinkedList.cpp)                                                         | Medium     |
 | 2997  | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp)                                  | Medium     |
