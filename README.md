@@ -66,6 +66,7 @@ Quick table overview of the completed solutions.
 | 633   | [Sum of Square Numbers](Solutions/0633.SumOfSquareNumbers.cpp)                                                                                                   | Medium     |
 | 648   | [Replace Words](Solutions/0648.ReplaceWords.cpp)                                                                                                                 | Medium     |
 | 678   | [Valid Parenthesis String](Solutions/0678.ValidParenthesisString.cpp)                                                                                            | Medium     |
+| 726   | [Number of Atoms](Solutions/0726.NumberOfAtoms.cpp)                                                                                                              | Hard       |
 | 752   | [Open the Lock](Solutions/0752.OpenTheLock.cpp)                                                                                                                  | Medium     |
 | 786*  | [K-th Smallest Prime Fraction](Solutions/0786.KthSmallestPrimeFraction.cpp)                                                                                      | Medium     |
 | 826   | [Most Profit Assigning Work](Solutions/0826.MostProfitAssigningWork.cpp)                                                                                         | Medium     |
