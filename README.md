@@ -125,6 +125,7 @@ Quick table overview of the completed solutions.
 | 2073  | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                                                          | Easy       |
 | 2181  | [Merge Nodes in Between Zeroes](Solutions/2181.MergeNodesInBetweenZeros.cpp)                                                                                     | Medium     |
 | 2192  | [All Ancestors of a Node in a Directed Acyclic Graph](Solutions/2192.AllAncestorsOfANodeInADirectedAcyclicGraph.cpp)                                             | Medium     |
+| 2196  | [Create Binary Tree From Descriptions](Solutions/2196.CreateBinaryTreeFromDescriptions.cpp)                                                                      | Medium     |
 | 2285  | [Maximum Total Importance of Roads](Solutions/2285.MaximumTotalImportanceOfRoads.cpp)                                                                            | Medium     |
 | 2331  | [Evaluate Boolean Binary Tree](Solutions/2331.EvaluateBooleanBinaryTree.cpp)                                                                                     | Easy       |
 | 2370  | [Longest Ideal Subsequence](Solutions/2370.LongestIdealSubsequence.cpp)                                                                                          | Medium     |
