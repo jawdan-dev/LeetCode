@@ -123,6 +123,7 @@ Quick table overview of the completed solutions.
 | 2037  | [Minimum Number of Moves to Seat Everyone](Solutions/2037.MinimumNumberOfMovesToSeatEveryone.cpp)                                                                | Easy       |
 | 2058  | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Solutions/2058.FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.cpp)            | Medium     |
 | 2073  | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                                                          | Easy       |
+| 2096  | [Step-By-Step Directions From a Binary Tree Node to Another](Solutions/2096.StepByStepDirectionsFromABinaryTreeNodeToAnother.cpp)                                | Medium     |
 | 2181  | [Merge Nodes in Between Zeroes](Solutions/2181.MergeNodesInBetweenZeros.cpp)                                                                                     | Medium     |
 | 2192  | [All Ancestors of a Node in a Directed Acyclic Graph](Solutions/2192.AllAncestorsOfANodeInADirectedAcyclicGraph.cpp)                                             | Medium     |
 | 2196  | [Create Binary Tree From Descriptions](Solutions/2196.CreateBinaryTreeFromDescriptions.cpp)                                                                      | Medium     |
