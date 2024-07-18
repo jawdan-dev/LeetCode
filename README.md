@@ -103,6 +103,7 @@ Quick table overview of the completed solutions.
 | 1482  | [Minimum Number of Days to Make m Bouquets](Solutions/1482.MinimumNumberOfDaysToMakeMBouquets.cpp)                                                               | Medium     |
 | 1509  | [Minimum Difference Between Largest and Smallest Value in Three Moves](Solutions/1509.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.cpp)           | Medium     |
 | 1518  | [Water Bottles](Solutions/1518.WaterBottles.cpp)                                                                                                                 | Easy       |
+| 1530  | [Number of Good Leaf Nodes Pairs](Solutions/1530.NumberOfGoodLeafNodesPairs.cpp)                                                                                 | Medium     |
 | 1544  | [Make The String Great](Solutions/1544.MakeTheStringGreat.cpp)                                                                                                   | Easy       |
 | 1545  | [Find Kth Bit in Nth Binary String](Solutions/1545.FindKthBitInNthBinaryString.cpp)                                                                              | Medium     |
 | 1550  | [Three Consecutive Odds](Solutions/1550.ThreeConsecutiveOdds.cpp)                                                                                                | Easy       |
