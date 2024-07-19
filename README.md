@@ -96,6 +96,7 @@ Quick table overview of the completed solutions.
 | 1255  | [Maximum Score Words Formed by Letters](Solutions/1255.MaximumScoreWordsFormedByLetters.cpp)                                                                     | Hard       |
 | 1289  | [Minimum Falling Path Sum II](Solutions/1289.MinimumFallingPathSumII.cpp)                                                                                        | Hard       |
 | 1325  | [Delete Leaves With a Given Value](Solutions/1325.DeleteLeavesWithAGivenValue.cpp)                                                                               | Medium     |
+| 1380  | [Lucky Numbers in a Matrix](Solutions/1380.LuckyNumbersInAMatrix.cpp)                                                                                            | Easy       |
 | 1382  | [Balance a Binary Search Tree](Solutions/1382.BalanceABinarySearchTree.cpp)                                                                                      | Medium     |
 | 1404  | [Number of Steps to Reduce a Number in Binary Representation to One](Solutions/1404.NumberOfStepsToReduceANumberInABinaryRepresentationToOne.cpp)                | Medium     |
 | 1438  | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Solutions/1438.LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.cpp) | Medium     |
