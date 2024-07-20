@@ -111,6 +111,7 @@ Quick table overview of the completed solutions.
 | 1552  | [Magnetic Force Between Two Balls](Solutions/1552.MagneticForceBetweenTwoBalls.cpp)                                                                              | Medium     |
 | 1579  | [Remove Max Number of Edges to Keep Graph Fully Traversable](Solutions/1579.RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.cpp)                               | Hard       |
 | 1598  | [Crawler Log Folder](Solutions/1598.CrawlerLogFolder.cpp)                                                                                                        | Easy       |
+| 1605  | [Find Valid Matrix Given Row and Column Sums](Solutions/1605.FindValidMatrixGivenRowAndColumnSums.cpp)                                                           | Medium     |
 | 1608  | [Special Array With X Elements Greater Than or Equal X](Solutions/1608.SpecialArrayWithXElementsGreaterThanOrEqualX.cpp)                                         | Easy       |
 | 1614  | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)                                                               | Easy       |
 | 1700  | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                                                                    | Easy       |
