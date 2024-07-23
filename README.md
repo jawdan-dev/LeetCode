@@ -114,6 +114,7 @@ Quick table overview of the completed solutions.
 | 1605  | [Find Valid Matrix Given Row and Column Sums](Solutions/1605.FindValidMatrixGivenRowAndColumnSums.cpp)                                                           | Medium     |
 | 1608  | [Special Array With X Elements Greater Than or Equal X](Solutions/1608.SpecialArrayWithXElementsGreaterThanOrEqualX.cpp)                                         | Easy       |
 | 1614  | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)                                                               | Easy       |
+| 1636  | [Sort Array by Increasing Frequency](Solutions/1636.SortArrayByIncreasingFrequency.cpp)                                                                          | Easy       |
 | 1700  | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                                                                    | Easy       |
 | 1701  | [Average Waiting Time](Solutions/1701.AverageWaitingTime.cpp)                                                                                                    | Medium     |
 | 1717  | [Maximum Score From Removing Substrings](Solutions/1717.MaximumScoreFromRemovingSubstrings.cpp)                                                                  | Medium     |
