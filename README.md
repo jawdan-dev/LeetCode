@@ -114,7 +114,7 @@ Quick table overview of the completed solutions.
 | 1605  | [Find Valid Matrix Given Row and Column Sums](Solutions/1605.FindValidMatrixGivenRowAndColumnSums.cpp)                                                           | Medium     |
 | 1608  | [Special Array With X Elements Greater Than or Equal X](Solutions/1608.SpecialArrayWithXElementsGreaterThanOrEqualX.cpp)                                         | Easy       |
 | 1614  | [Maximum Nesting Depth of the Parentheses](Solutions/1614.MaximumNestingDepthOfTheParentheses.cpp)                                                               | Easy       |
-| 1636  | [Sort Array by Increasing Frequency](Solutions/1636.SortArrayByIncreasingFrequency.cpp)                                                                          | Easy       |
+| 1636  | [Sort Array by Increasing Frequency](Solutions/1636.SortArrayByIncreasingFrequency.cpp)                                                                          | Easy       | 0 |
 | 1700  | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                                                                    | Easy       |
 | 1701  | [Average Waiting Time](Solutions/1701.AverageWaitingTime.cpp)                                                                                                    | Medium     |
 | 1717  | [Maximum Score From Removing Substrings](Solutions/1717.MaximumScoreFromRemovingSubstrings.cpp)                                                                  | Medium     |
@@ -130,6 +130,7 @@ Quick table overview of the completed solutions.
 | 2073  | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                                                          | Easy       |
 | 2096  | [Step-By-Step Directions From a Binary Tree Node to Another](Solutions/2096.StepByStepDirectionsFromABinaryTreeNodeToAnother.cpp)                                | Medium     |
 | 2181  | [Merge Nodes in Between Zeroes](Solutions/2181.MergeNodesInBetweenZeros.cpp)                                                                                     | Medium     |
+| 2191  | [Sort the Jumbled Numbers](Solutions/2191.SortTheJumbledNumbers.cpp)                                                                                             | Medium     |
 | 2192  | [All Ancestors of a Node in a Directed Acyclic Graph](Solutions/2192.AllAncestorsOfANodeInADirectedAcyclicGraph.cpp)                                             | Medium     |
 | 2196  | [Create Binary Tree From Descriptions](Solutions/2196.CreateBinaryTreeFromDescriptions.cpp)                                                                      | Medium     |
 | 2285  | [Maximum Total Importance of Roads](Solutions/2285.MaximumTotalImportanceOfRoads.cpp)                                                                            | Medium     |
