@@ -75,6 +75,7 @@ Quick table overview of the completed solutions.
 | 857   | [Minimum Cost to Hire K Workers](solutions/0857.MinimumCostToHireKWorkers.cpp)                                                                                   | Hard       |
 | 861   | [Score after Flipping Matrix](Solutions/0861.ScoreAfterFlippingMatrix.cpp)                                                                                       | Medium     |
 | 881   | [Boats to Save People](Solutions/0881.BoatsToSavePeople.cpp)                                                                                                     | Medium     |
+| 912   | [Sort an Array](Solutions/0912.SortAnArray.cpp)                                                                                                                  | Medium     |
 | 945   | [Minimum Increment to Make Array Unique](Solutions/0945.MinimumIncrementToMakeArrayUnique.cpp)                                                                   | Medium     |
 | 950   | [Reveal Cards in Increasing Order](Solutions/0950.RevealCardsInIncreasingOrder.cpp)                                                                              | Medium     |
 | 974   | [Subarray Sums Divisible by K](Solutions/0974.SubarraySumsDivisibleByK.cpp)                                                                                      | Medium     |
