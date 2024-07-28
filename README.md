@@ -128,6 +128,7 @@ Quick table overview of the completed solutions.
 | 1992  | [Find All Groups of Farmland](Solutions/1992.FindAllGroupsOfFarmland.cpp)                                                                                          | Medium     |
 | 2000  | [Reverse Prefix of Word](Solutions/2000.ReversePrefixOfWord.cpp)                                                                                                   | Easy       |
 | 2037  | [Minimum Number of Moves to Seat Everyone](Solutions/2037.MinimumNumberOfMovesToSeatEveryone.cpp)                                                                  | Easy       |
+| 2045  | [Second Minimum Time to Reach Destination](Solutions/2045.SecondMinimumTimeToReachDestination.cpp)                                                                 | Hard       |
 | 2058  | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Solutions/2058.FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.cpp)              | Medium     |
 | 2073  | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                                                            | Easy       |
 | 2096  | [Step-By-Step Directions From a Binary Tree Node to Another](Solutions/2096.StepByStepDirectionsFromABinaryTreeNodeToAnother.cpp)                                  | Medium     |
