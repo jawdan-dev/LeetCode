@@ -100,6 +100,7 @@ Quick table overview of the completed solutions.
 | 1334  | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Solutions/1334.FindTheCityWithTheSmallestNumberOfNeighboursAtAThresholdDistance.cpp) | Medium     |
 | 1380  | [Lucky Numbers in a Matrix](Solutions/1380.LuckyNumbersInAMatrix.cpp)                                                                                              | Easy       |
 | 1382  | [Balance a Binary Search Tree](Solutions/1382.BalanceABinarySearchTree.cpp)                                                                                        | Medium     |
+| 1395  | [Count Number of Teams](Solutions/1395.CountNumberOfTeams.cpp)                                                                                                     | Medium     |
 | 1404  | [Number of Steps to Reduce a Number in Binary Representation to One](Solutions/1404.NumberOfStepsToReduceANumberInABinaryRepresentationToOne.cpp)                  | Medium     |
 | 1438  | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Solutions/1438.LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.cpp)   | Medium     |
 | 1442  | [Count Triplets That Can Form Two Arrays of Equal XOR](Solutions/1442.CountTripletsThatCanFormTwoArraysOfEqualXOR.cpp)                                             | Medium     |
