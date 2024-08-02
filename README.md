@@ -134,6 +134,7 @@ Quick table overview of the completed solutions.
 | 2058  | [Find the Minimum and Maximum Number of Nodes Between Critical Points](Solutions/2058.FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.cpp)              | Medium     |
 | 2073  | [Time Needed to Buy Tickets](Solutions/2073.TimeNeededToBuyTickets.cpp)                                                                                            | Easy       |
 | 2096  | [Step-By-Step Directions From a Binary Tree Node to Another](Solutions/2096.StepByStepDirectionsFromABinaryTreeNodeToAnother.cpp)                                  | Medium     |
+| 2134  | [Minimum Swaps to Group All 1's Together II](Solutions/2134.MinimumSwapsToGroupAll1sTogetherII.cpp)                                                                | Medium     |
 | 2181  | [Merge Nodes in Between Zeroes](Solutions/2181.MergeNodesInBetweenZeros.cpp)                                                                                       | Medium     |
 | 2191  | [Sort the Jumbled Numbers](Solutions/2191.SortTheJumbledNumbers.cpp)                                                                                               | Medium     |
 | 2192  | [All Ancestors of a Node in a Directed Acyclic Graph](Solutions/2192.AllAncestorsOfANodeInADirectedAcyclicGraph.cpp)                                               | Medium     |
