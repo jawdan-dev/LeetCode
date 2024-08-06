@@ -158,6 +158,7 @@ Quick table overview of the completed solutions.
 | 2816  | [Double a Number Represented as a Linked List](Solutions/2816.DoubleANumberRepresentedAsALinkedList.cpp)                                                           | Medium     |
 | 2976  | [Minimum Cost ot Convert String I](Solutions/2976.MinimumCostToConvertStringI.cpp)                                                                                 | Medium     |
 | 2997  | [Minimum Number of Operations to Make Array XOR Equal to K](Solutions/2997.MinimumNumberOfOperationsToMakeArrayXOREqualToK.cpp)                                    | Medium     |
+| 3016  | [Minimum Number of Pushes to Type Word II](Solutions/3016.MinimumNumberOfPushesToTypeWordII.cpp)                                                                   | Medium     |
 | 3068  | [Find the Maximum Sum of Node Values](Solutions/3068.FindTheMaximumSumOfNodeValues.cpp)                                                                            | Hard       |
 | 3075  | [Maximize Happiness of Selected Children](Solutions/3075.MaximizeHappinessOfSelectedChildren.cpp)                                                                  | Medium     |
 | 3110  | [Score of a String](Solutions/3110.ScoreOfAString.cpp)                                                                                                             | Easy       |
