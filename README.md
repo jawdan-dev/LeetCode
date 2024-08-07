@@ -50,6 +50,7 @@ Quick table overview of the completed solutions.
 | 205   | [Isomorphic Strings](Solutions/0205.IsomorphicStrings.cpp)                                                                                                         | Easy       |
 | 237   | [Delete Node in a Linked List](Solutions/0237.DeleteNodeInALinkedList.cpp)                                                                                         | Medium     |
 | 260   | [Single Number III](Solutions/0260.SingleNumberIII.cpp)                                                                                                            | Medium     |
+| 273   | [Integer to English Words](Solutions/0273.IntegerToEnglishWords.cpp)                                                                                               | Hard       |
 | 310   | [Minimum Height Trees](Solutions/0310.MinimumHeightTrees.cpp)                                                                                                      | Medium     |
 | 330   | [Patching Array](Solutions/0330.PatchingArray.cpp)                                                                                                                 | Hard       |
 | 344   | [Reverse String](Solutions/0344.ReverseString.cpp)                                                                                                                 | Easy       |
