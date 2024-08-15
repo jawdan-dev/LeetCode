@@ -33,7 +33,7 @@ Quick table overview of the completed solutions.
 | 21    | [Merge Two Sorted Lists](Solutions/0021.MergeTwoSortedLists.cpp)                                                                                                   | Easy       |
 | 26    | [Remove Duplicates From Sorted Array](Solutions/0026.RemoveDuplicatesFromSortedArray.cpp)                                                                          | Easy       |
 | 27    | [Remove Element](Solutions/0027.RemoveElement.cpp)                                                                                                                 | Easy       |
-| 28    | [Find the Index of the First Occurrence in a String](solutions/0028.FindTheIndexOfTheFirstOccurenceInAString.cpp)                                                  | Easy       |
+| 28    | [Find the Index of the First Occurrence in a String](Solutions/0028.FindTheIndexOfTheFirstOccurenceInAString.cpp)                                                  | Easy       |
 | 42    | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                                                                        | Hard       |
 | 50    | [Pow(x, n)](Solutions/0050.PowXN.cpp)                                                                                                                              | Medium     |
 | 58    | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                                                                                  | Easy       |
@@ -73,7 +73,8 @@ Quick table overview of the completed solutions.
 | 826   | [Most Profit Assigning Work](Solutions/0826.MostProfitAssigningWork.cpp)                                                                                           | Medium     |
 | 834   | [Sum of Distances in Tree](Solutions/0834.SumOfDistancesInTree.cpp)                                                                                                | Hard       |
 | 846   | [Hands of Straights](Solutions/0846.HandOfStraights.cpp)                                                                                                           | Medium     |
-| 857   | [Minimum Cost to Hire K Workers](solutions/0857.MinimumCostToHireKWorkers.cpp)                                                                                     | Hard       |
+| 857   | [Minimum Cost to Hire K Workers](Solutions/0857.MinimumCostToHireKWorkers.cpp)                                                                                     | Hard       |
+| 860   | [Lemonade Change](Solutions/0860.LemonadeChange.cpp)                                                                                                               | Easy       |
 | 861   | [Score after Flipping Matrix](Solutions/0861.ScoreAfterFlippingMatrix.cpp)                                                                                         | Medium     |
 | 881   | [Boats to Save People](Solutions/0881.BoatsToSavePeople.cpp)                                                                                                       | Medium     |
 | 885   | [Spiral Matrix III](Solutions/0885.SpiralMatrixIII.cpp)                                                                                                            | Medium     |
