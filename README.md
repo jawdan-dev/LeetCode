@@ -101,6 +101,7 @@ Quick table overview of the completed solutions.
 | 1289  | [Minimum Falling Path Sum II](Solutions/1289.MinimumFallingPathSumII.cpp)                                                                                          | Hard       |
 | 1325  | [Delete Leaves With a Given Value](Solutions/1325.DeleteLeavesWithAGivenValue.cpp)                                                                                 | Medium     |
 | 1334  | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Solutions/1334.FindTheCityWithTheSmallestNumberOfNeighboursAtAThresholdDistance.cpp) | Medium     |
+| 1346  | [Check If N and Its Double Exist](Solutions/1346.CheckIfNAndItsDoubleExist.cpp)                                                                                    | Easy       |
 | 1380  | [Lucky Numbers in a Matrix](Solutions/1380.LuckyNumbersInAMatrix.cpp)                                                                                              | Easy       |
 | 1382  | [Balance a Binary Search Tree](Solutions/1382.BalanceABinarySearchTree.cpp)                                                                                        | Medium     |
 | 1395  | [Count Number of Teams](Solutions/1395.CountNumberOfTeams.cpp)                                                                                                     | Medium     |
