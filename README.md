@@ -108,6 +108,7 @@ Quick table overview of the completed solutions.
 | 1404  | [Number of Steps to Reduce a Number in Binary Representation to One](Solutions/1404.NumberOfStepsToReduceANumberInABinaryRepresentationToOne.cpp)                  | Medium     |
 | 1438  | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Solutions/1438.LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.cpp)   | Medium     |
 | 1442  | [Count Triplets That Can Form Two Arrays of Equal XOR](Solutions/1442.CountTripletsThatCanFormTwoArraysOfEqualXOR.cpp)                                             | Medium     |
+| 1455  | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](Solutions/1455.CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.cpp)                                 | Easy       |
 | 1460  | [Make Two Arrays Equal by Reversing Subarrays](Solutions/1460.MakeTwoArraysEqualByReversingSubarrays.cpp)                                                          | Easy       |
 | 1482  | [Minimum Number of Days to Make m Bouquets](Solutions/1482.MinimumNumberOfDaysToMakeMBouquets.cpp)                                                                 | Medium     |
 | 1509  | [Minimum Difference Between Largest and Smallest Value in Three Moves](Solutions/1509.MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.cpp)             | Medium     |
