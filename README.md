@@ -34,6 +34,7 @@ Quick table overview of the completed solutions.
 | 26    | [Remove Duplicates From Sorted Array](Solutions/0026.RemoveDuplicatesFromSortedArray.cpp)                                                                          | Easy       |
 | 27    | [Remove Element](Solutions/0027.RemoveElement.cpp)                                                                                                                 | Easy       |
 | 28    | [Find the Index of the First Occurrence in a String](Solutions/0028.FindTheIndexOfTheFirstOccurenceInAString.cpp)                                                  | Easy       |
+| 29    | [Divide Two Integers](Solutions/0029.DivideTwoIntegers.cpp)                                                                                                        | Medium     |
 | 42    | [Trapping Rain Water](Solutions/0042.TrappingRainWater.cpp)                                                                                                        | Hard       |
 | 50    | [Pow(x, n)](Solutions/0050.PowXN.cpp)                                                                                                                              | Medium     |
 | 58    | [Length Of The Last Word](Solutions/0058.LengthOfTheLastWord.cpp)                                                                                                  | Easy       |
@@ -102,6 +103,7 @@ Quick table overview of the completed solutions.
 | 1325  | [Delete Leaves With a Given Value](Solutions/1325.DeleteLeavesWithAGivenValue.cpp)                                                                                 | Medium     |
 | 1334  | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](Solutions/1334.FindTheCityWithTheSmallestNumberOfNeighboursAtAThresholdDistance.cpp) | Medium     |
 | 1346  | [Check If N and Its Double Exist](Solutions/1346.CheckIfNAndItsDoubleExist.cpp)                                                                                    | Easy       |
+| 1353  | [Maximum Number of Events That Can Be Attended](Solutions/1353.MaximumNumberOfEventsThatCanBeAttended.cpp)                                                         | Medium     |
 | 1380  | [Lucky Numbers in a Matrix](Solutions/1380.LuckyNumbersInAMatrix.cpp)                                                                                              | Easy       |
 | 1382  | [Balance a Binary Search Tree](Solutions/1382.BalanceABinarySearchTree.cpp)                                                                                        | Medium     |
 | 1395  | [Count Number of Teams](Solutions/1395.CountNumberOfTeams.cpp)                                                                                                     | Medium     |
@@ -132,6 +134,7 @@ Quick table overview of the completed solutions.
 | 1823  | [Find the Winner of the Circular Game](Solutions/1823.FindTheWinnderOfTheCircularGame.cpp)                                                                         | Medium     |
 | 1861  | [Rotating the Box](Solutions/1861.RotatingTheBox.cpp)                                                                                                              | Medium     |
 | 1863  | [Sum of All Subset XOR Totals](Solutions/1863.SumOfAllSubsetXORTotals.cpp)                                                                                         | Easy       |
+| 1865  | [Finding Pairs With a Certain Sum](Solutions/1865.FindingPairsWithACertainSum.cpp)                                                                                 | Medium     |
 | 1915  | [Number of Wonderful Substrings](Solutions/1915.NumberOfWonderfulSubstrings.cpp)                                                                                   | Medium     |
 | 1971  | [Find if Path Exists in Graph](Solutions/1971.FindIfPathExistsInGraph.cpp)                                                                                         | Easy       |
 | 1992  | [Find All Groups of Farmland](Solutions/1992.FindAllGroupsOfFarmland.cpp)                                                                                          | Medium     |
