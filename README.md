@@ -91,11 +91,17 @@ Quick table overview of the completed solutions.
 | 1051  | [Height Checker](Solutions/1051.HeightChecker.cpp)                                                                                                                 | Easy       |
 | 1052  | [Grumpy Bookstore Owner](Solutions/1052.GrumpyBookstoreOwner.cpp)                                                                                                  | Medium     |
 | 1110  | [Delete Nodes And Return Forest](Solutions/1110.DeleteNodesAndReturnForest.cpp)                                                                                    | Medium     |
+| 1114  | [Print in Order](Solutions/1114.PrintInOrder.cpp)                                                                                                                  | Easy       |
+| 1115  | [Print FooBar Alternately](Solutions/1115.PrintFooBarAlternately.cpp)                                                                                              | Medium     |
+| 1116  | [Print Zero Even Odd](Solutions/1116.PrintZeroEvenOdd.cpp)                                                                                                         | Medium     |
+| 1117  | [Building H2O](Solutions/1117.BuildingH2O.cpp)                                                                                                                     | Medium     |
 | 1122  | [Relative Sort Array](Solutions/1122.RelativeSortArray.cpp)                                                                                                        | Easy       |
 | 1137  | [Nth Tribonacci Number](Solutions/1137.NthTribonacciNumber.cpp)                                                                                                    | Easy       |
 | 1190  | [Reverse Substrings Between Each Pair of PArentheses](Solutions/1190.ReverseSubstringsBetweenEachPairOfParentheses.cpp)                                            | Medium     |
+| 1195  | [Fizz Buzz Multithreaded](Solutions/1195.FizzBuzzMultithreaded.cpp)                                                                                                | Medium     |
 | 1208  | [Get Equal Substrings Within Budget](Solutions/1208.GetEqualSubstringsWithinBudget.cpp)                                                                            | Medium     |
 | 1219  | [Path with Maximum Gold](Solutions/1219.PathWithMaximumGold.cpp)                                                                                                   | Medium     |
+| 1226  | [The Dining Philosophers](Solutions/1226.TheDiningPhilosophers.cpp)                                                                                                | Medium     |
 | 1248  | [Count Number of Nice Subarrays](Solutions/1248.CountNumberOfNiceSubarrays.cpp)                                                                                    | Medium     |
 | 1249  | [Minimum Remove to Make Valid Parentheses](Solutions/1249.MinimumRemoveToMakeValidParentheses.cpp)                                                                 | Medium     |
 | 1255  | [Maximum Score Words Formed by Letters](Solutions/1255.MaximumScoreWordsFormedByLetters.cpp)                                                                       | Hard       |
