@@ -136,6 +136,7 @@ Quick table overview of the completed solutions.
 | 1700  | [Number of Students Unable to Eat Lunch](Solutions/1700.NumberOfStudentsUnableToEatLunch.cpp)                                                                      | Easy       |
 | 1701  | [Average Waiting Time](Solutions/1701.AverageWaitingTime.cpp)                                                                                                      | Medium     |
 | 1717  | [Maximum Score From Removing Substrings](Solutions/1717.MaximumScoreFromRemovingSubstrings.cpp)                                                                    | Medium     |
+| 1751  | [Maximum Number of Events That Can Be Attended II](Solutions/1751.MaximumNumberOfEventsThatCanBeAttendedII.cpp)                                                    | Hard       |
 | 1791  | [Find Center of Star Graph](Solutions/1791.FindCenterOfStarGraph.cpp)                                                                                              | Easy       |
 | 1823  | [Find the Winner of the Circular Game](Solutions/1823.FindTheWinnderOfTheCircularGame.cpp)                                                                         | Medium     |
 | 1861  | [Rotating the Box](Solutions/1861.RotatingTheBox.cpp)                                                                                                              | Medium     |
